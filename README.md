@@ -1,2 +1,2 @@
 # DAI-101
-Repo for Data Science
+Repo for Data Science assignments
